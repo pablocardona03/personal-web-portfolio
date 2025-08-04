@@ -1,42 +1,45 @@
 # Personal Web Portfolio
 
-This repository contains a collection of personal projects designed to improve my understanding and mastery of HTML, CSS, and JavaScript fundamentals. The goal is to build a modern, responsive, and aesthetically pleasing portfolio that represents both technical growth and design creativity.
+This repository contains a collection of personal projects created to practice and showcase foundational skills in HTML, CSS, and JavaScript. The objective is to develop a responsive and visually appealing portfolio that reflects both technical growth and creative design.
 
 ## Features
 
-- Responsive design with clean and reusable HTML structures
+- Responsive design
+- Clean and modular HTML structure
 - Custom styling using vanilla CSS
 - Interactive behavior with JavaScript
-- Modular project organization for scalability and readability
+- Organized project folders for scalability
 
-## Technologies
+## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
 ## Project Structure
 
-personal-web-portfolio/
-├── index.html               Main portfolio landing page
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-└── projects/                Individual subfolders for each showcase project
+personal-web-portfolio/  
+├── index.html — Main landing page  
+├── assets/  
+│   ├── css/  
+│   ├── js/  
+│   └── images/  
+└── projects/ — Subfolders for each showcased project  
 
 ## Usage
 
-Clone the repository and open index.html in your preferred web browser.
-
-git clone https://github.com/pablocardona03/personal-web-portfolio.git
+Clone the repository and open **index.html** in your browser.
+```bash
+[git clone https://github.com/pablocardona03/personal-web-portfolio.git](https://github.com/pablocardona03/ivr-monitoring-docker-lab.git)
+personal-web-portfolio
+```
 
 ## Roadmap
 
-- Add more portfolio project sections
-- Implement theme switch (dark/light mode)
-- Add contact form with JavaScript validation
-- Optimize performance and accessibility
+- Add additional project showcase sections  
+- Implement dark/light theme switch  
+- Add a contact form with JavaScript validation  
+- Improve accessibility and performance  
 
 ## License
 
