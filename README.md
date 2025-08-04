@@ -30,7 +30,7 @@ personal-web-portfolio/
 
 Clone the repository and open **index.html** in your browser.
 ```bash
-[git clone https://github.com/pablocardona03/personal-web-portfolio.git](https://github.com/pablocardona03/ivr-monitoring-docker-lab.git)
+git clone https://github.com/pablocardona03/personal-web-portfolio.git
 personal-web-portfolio
 ```
 
